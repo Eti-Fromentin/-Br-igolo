@@ -1,5 +1,4 @@
 # _Projet gagnant du hackathon Mano Mano x Wild Code School_
-
 # _de Janvier 2022._
 
 Une demonstration de comment intégrer une dimension communautaire au processus d'achat sur le site de Mano Mano. 
