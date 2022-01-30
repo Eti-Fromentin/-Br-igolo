@@ -3,6 +3,8 @@
 
 Une demonstration de comment intégrer une dimension communautaire au processus d'achat sur le site de Mano Mano. 
 
+La démonstation est visible [ICI](https://youtu.be/VxAnNkD-HeU)
+
 Un utilisateur peut partager son panier avec des amis, en vue d'un projet ensemble. 
 Ces amis peuvent ajouter, retirer des articles au panier, sans avoir besoin de s'enregister sur le site. 
 Le réglement du panier reste à la charge de l'utilisateur initial. 
